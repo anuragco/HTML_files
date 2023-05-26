@@ -4,10 +4,7 @@ Create a login Form With CSS in VSCode.
 
 This amazing Form is provided in open source. So, helpful contributions are highly appreciated.
 
-## ScreenShots
 
-
-| <img src="screenshots/login.jpg"  width="300"/> | <img src="screenshots/registerr.jpg" width="300"/>  |
 
 ---
 
